@@ -1,0 +1,6 @@
+<i class="ri-celsius-line"></i>  for temprature
+<i class="ri-water-percent-line"></i> for humidity
+above one are from remixicon
+<FontAwesomeIcon icon="fa-solid fa-wind" /> for wind speed
+<FontAwesomeIcon icon="fa-solid fa-temperature-low" style={{color: "#e5ae38",}} />  for wind degree
+<FontAwesomeIcon icon="fa-regular fa-tire-pressure-warning" /> pressure

@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "9870",
+      "email": "sg997505@gmail.com",
+      "name": "Sahil Gupta",
+      "contact": "8779171041",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "tasks": []
+    },
+    {
+      "id": "4016",
+      "email": "120@gmail.com",
+      "name": "Sahil Gupta",
+      "contact": "8779171041",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "tasks": []
+    },
+    {
+      "id": "19dd",
+      "email": "kunal@gmail.com",
+      "name": "Kunal Jangid",
+      "contact": "8779171042",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "tasks": []
+    },
+    {
+      "id": "5261",
+      "email": "123@gmail.com",
+      "name": "123",
+      "contact": "8779171042",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "tasks": []
+    },
+    {
+      "id": "ee23",
+      "email": "paritosh@gmail.com",
+      "name": "Paritosh",
+      "contact": "8779171042",
+      "password": "1234567",
+      "confirmPassword": "1234567",
+      "tasks": []
+    },
+    {
+      "id": "ff2f",
+      "email": "rohit@gmail.com",
+      "name": "Rohit Pal",
+      "contact": "8779171042",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "tasks": []
+    },
+    {
+      "id": "28a3",
+      "email": "rohit1@gmail.com",
+      "name": "Rohit Shinde ",
+      "contact": "8779171041",
+      "password": "1234567",
+      "confirmPassword": "1234567",
+      "tasks": []
+    }
+  ]
+}
