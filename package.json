@@ -11,7 +11,7 @@
   "preview": "vite preview",
   "server": "json-server --watch ./userDB/user.json --port 3000npm install --save-dev serve concurrently",
   "start": "concurrently \"npm run server\" \"serve -s dist\""
-},,
+},
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
